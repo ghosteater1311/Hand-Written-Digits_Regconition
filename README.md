@@ -1,4 +1,4 @@
-# 🖊️ Hand-written Digits Recognition
+# Hand-written Digits Recognition
 
 **Team size:** 4 people  
 **Project Field:** Computer Vision, Image Processing, Convolutional Neural Networks (CNN), k-Nearest Neighbors (KNN), Classification Problem  
