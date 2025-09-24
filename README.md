@@ -17,6 +17,12 @@ A **pre-trained CNN model** is provided (`final_model.h5`) for real-time digit p
 
 ---
 
+## 🖥️ Demo
+
+https://github.com/user-attachments/assets/77cd077f-d293-48f7-9a50-f08f6c67299e
+
+---
+
 ## 🗂️ Project Structure
 
 ### 🖥️ Main Application
